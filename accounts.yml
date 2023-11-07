@@ -1,0 +1,12 @@
+build:
+  version: 3.0
+
+accounts:
+  message: "Welcome to EazyBank accounts related local APIs"
+  contactDetails:
+    name: "John Doe - Developer"
+    email: "john@doe.com"
+  supportNumber:
+    - "(555)222-034"
+    - "(555)222-035"
+
