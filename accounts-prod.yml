@@ -1,13 +1,11 @@
 build:
-  version: "1.0"
+  version: '1.0'
 
 accounts:
-  message: "Welcome to EazyBank accounts related  prododuction hook APIs "
+  message: 'Welcome to EazyBank accounts related  prododuction hook APIs '
   contactDetails:
-    name: "Reine Aishwarya - Product Owner"
-    email: "{cipher}184154ff50880827625d78c0955bb9742408e9490159d3827d21fd3a06db0f1c19fe23bf898f5729071faa81dfe5887b"
+    name: 'Reine Aishwarya - Product Owner'
+    email: '{cipher}5d90dc438f73c5887c22e5dcf0dfd642f7e10cfe6ff9a136f317a2514171959b56b82657b2d98d7dd155c28ffb24d06d'
   onCallSupport:
     - (453) 392-4829
     - (236) 203-0384
-
-
